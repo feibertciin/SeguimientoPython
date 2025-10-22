@@ -44,7 +44,7 @@ Este proyecto muestra ejemplos prácticos del uso de **estructuras de datos fund
 
 La actividad se explica en detalle en la siguiente presentación interactiva:
 
-👉 **[Ver la presentación en Netlify]((https://pythoncd.netlify.app/))**
+👉 **[Ver la presentación en Netlify](([https://pythoncd.netlify.app/]))**
 
 ---
 
